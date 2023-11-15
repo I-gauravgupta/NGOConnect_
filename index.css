@@ -1,0 +1,30 @@
+.services{
+    margin: 50px;
+}
+.services h2{
+    text-align: center;
+    text-decoration: underline;
+}
+.services .card-container .row {
+    gap: 50px;
+    margin-top: 60px;
+    justify-content: center;
+    
+}
+.contact{
+    margin-top: 80px;
+    padding: 0 50px;
+}
+.contact h2{
+    text-align: center;
+    text-decoration: underline;
+}
+.aim{
+    margin-top: 80px ;
+    align-items: center;
+}
+.aim h2{
+    text-align: center;
+    text-decoration: underline;
+
+}

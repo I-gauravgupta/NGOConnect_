@@ -30,18 +30,20 @@
 }
 .sustanable-dev-goals{
     margin: 50px 0;
-    background-color: rgb(228, 240, 232);
+    background-color:  rgb(228, 240, 232);
     padding: 50px;
     justify-content: center;
 }
 .sustanable-dev-goals h2{
     text-align: center;
-    text-decoration: underline;
+  text-decoration: underline;
 }
-.sustanable-dev-goals img{
+.sustanaible-dev-goals img{
     margin: 20px 0;
-    height: 200px;
-    width: 1100px;
+    vertical-align: middle;
+    height: 18rem;
+    overflow: hidden;
+    object-fit: cover;
 }
 .here-how-you-can-help{
     margin: 50px 0;

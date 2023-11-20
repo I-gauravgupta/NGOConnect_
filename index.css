@@ -9,8 +9,8 @@
     gap: 50px;
     margin-top: 60px;
     justify-content: center;
-    
-}
+    }
+
 .contact{
     margin-top: 80px;
     padding: 0 50px;
@@ -30,7 +30,7 @@
 }
 .sustanable-dev-goals{
     margin: 50px 0;
-    background-color:  rgb(228, 240, 232);
+    background-color: lightgrey;
     padding: 50px;
     justify-content: center;
 }
@@ -38,13 +38,16 @@
     text-align: center;
   text-decoration: underline;
 }
-.sustanaible-dev-goals img{
-    margin: 20px 0;
+.sustanable-dev-goals img{
     vertical-align: middle;
-    height: 18rem;
+    height: 100%;
     overflow: hidden;
-    object-fit: cover;
+    object-fit:cover;
 }
+.sustanable-dev-goals .card-container .row{
+    justify-content: center;
+}
+
 .here-how-you-can-help{
     margin: 50px 0;
     padding: 50px;
@@ -55,7 +58,13 @@
 .here-how-you-can-help h3{
     width: 350px;
     text-align: center;
-    border: 2px yellow solid;
-    background-color: yellow;
     border-radius: 4px;
+    font-style: oblique;
+    text-decoration:underline;
+}
+#navbar{
+    border-bottom: 3px solid rgb(39, 39, 92);
+}
+#carouselExampleIndicators img{
+    object-fit: fill;
 }
